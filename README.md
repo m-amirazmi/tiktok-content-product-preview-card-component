@@ -6,4 +6,6 @@ Run these command in the terminal:
   2. npm run dev
   
 Then access http://localhost:5173 on the browser.
+
+Access the live site here: http://tiktok.merazmi.tech/product-preview-card-component/
  
