@@ -7,5 +7,5 @@ Run these command in the terminal:
   
 Then access http://localhost:5173 on the browser.
 
-Access the live site here: http://tiktok.merazmi.tech/product-preview-card-component/
+Access the live site here: https://tiktok.merazmi.tech/product-preview-card-component/
  
